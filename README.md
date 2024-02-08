@@ -1,3 +1,6 @@
+[![Watch the video](https://github.com/ArielBarkan/react-csv-importer/blob/8b8fdf91571908453430de2de241e0e0df1de253/react-csv-importer.png)](https://github.com/ArielBarkan/react-csv-importer/blob/8b8fdf91571908453430de2de241e0e0df1de253/react-csv-importer.mp4)
+
+
 # For testing, plese use the following CSV file:
 https://github.com/ArielBarkan/react-csv-importer/blob/ca53bd576d0c5d548151fa24da1455c5078dc1b9/users.csv
 
