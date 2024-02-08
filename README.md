@@ -1,3 +1,6 @@
+# For testing, plese use the following CSV file:
+https://github.com/ArielBarkan/react-csv-importer/blob/ca53bd576d0c5d548151fa24da1455c5078dc1b9/users.csv
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
