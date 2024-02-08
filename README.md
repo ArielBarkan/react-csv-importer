@@ -1,4 +1,4 @@
-[![Watch the video](https://github.com/ArielBarkan/react-csv-importer/blob/8b8fdf91571908453430de2de241e0e0df1de253/react-csv-importer.png)](https://github.com/ArielBarkan/react-csv-importer/blob/8b8fdf91571908453430de2de241e0e0df1de253/react-csv-importer.mp4)
+[![Watch the video](https://github.com/ArielBarkan/react-csv-importer/blob/8b8fdf91571908453430de2de241e0e0df1de253/react-csv-importer.png)](https://www.youtube.com/watch?v=oM2sZ1sr9SU)
 
 
 # For testing, plese use the following CSV file:
